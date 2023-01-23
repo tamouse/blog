@@ -5,8 +5,8 @@ title: "&#128045; the tamouse pages"
 author: Tamara Temple
 email: tamouse@gmail.com
 description: the rumblings and ramblings of a well-traveled tech-mouse
-url: https://blog.tamouse.org
-baseurl: ''
+url: https://tamouse.github.io
+baseurl: '/blog'
 social:
   twitter: tamouse
   github: tamouse
@@ -22,7 +22,7 @@ kramdown:
 plugins_dir:
   - jekyll-gist
 
-corsProxy: "http://127.0.0.1:8080/"
+# corsProxy: "http://127.0.0.1:8080/"
 # Duplicated because I screwed this up and too lazy to fix
 s3path: '//s3.amazonaws.com/tt.imageshare/'
 images:

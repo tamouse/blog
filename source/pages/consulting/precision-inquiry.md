@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "Precision Inquiry"
+title: "Precision Inquiry for the Desired Future State"
 subtitle: Eliciting high-fidelity information from a client
-date: 2004-12-29
+date: 1999-01-01
 author: Tamara Temple
 email: tamouse@gmail.com
 ---
-
 Precision inquiry is the practice of establishing the most sensory-complete set of information the client can give you about what their [Desired State][desired-state] will be. These questions can be asked from the present or the future; often times asking from the future is more productive especially if the client does not really consciously know what they want.
+
+I wrote this initially back in 1999--2000 to try to capture the process we used in our internal consultancy at Hewlett-Packard, the Software Initiative.
 
 <a name="desired-state"></a>
 
@@ -22,6 +23,12 @@ have; it provides a target for them to move towards, gives purpose for
 change and helps them determine what they need to know, acquire and do
 in order to get that desired future. The [*Three Golden Questions*][three-golden-questions] are
 often used to create a rich desired state for the client.
+
+The desired state isn't a fine, pinpoint location in the future, but is an arc of possible desired future states.
+
+![Arc of Desired Future States]({{ site.baseurl }}/images/Consulting/the_arc_of_desired_future_states.jpg "Arc of Desired Future States, from here to there"){:.img-responsive}
+
+Getting from the present (D<sub>0</sub>) to the desired future state (D<sub>n</sub>) is never a direct path, and the end goal shifts as you move forward and learn new things.
 
 <a name="well-formed-outcomes"></a>
 
