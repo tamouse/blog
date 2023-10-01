@@ -1,5 +1,0 @@
-%define=trail bgcolor=#eee block center border="1pt solid #999" font-style=italic font-size=80pct%%define=note font-style=italic color=green%%define=notebox font-style=italic block center border="1pt solid #0C0" width=50pct margin="2pt auto" padding=2pt bgcolor=#9C9 color=#333%%define=important block bgcolor=#fcc border='1px solid black' padding=5px%%define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc%%define=webdings font-family:webdings%%define=categories bgcolor=#eee float=right border="1pt solid #333" padding=3px block%%define=tags block%(:comment please leave the multiple style definitions concatenated as a single line, with no spaces between definitions and no space trailing the last definition before this comment.  Linebreaks do appear in the output when the wiki is configured with linebreaks enabled -- thanks!:)
-(:description {$:Summary}:)(:comment this will use the summary from the wiki page being rendered:)
-(:keywords Tamara Temple, Ruby, Rails, Ruby on Rails, Web Development, Web Applications, Web Apps:)
-!{$:Summary}(:comment this will show the summary from the wiki page being rendered:)
-

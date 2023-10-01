@@ -1,8 +1,0 @@
-#foxbegin 1371406315a63505b0#
->>messagehead<<
-(:if ! equal "" "":)[[ | Tamara]](:else:)Tamara(:if:)&nbsp;&mdash;&nbsp;[-16 Jun 2013 - 13:11-](:if auth admin:)&nbsp; mailto:tamouse@gmail.com (:if:)(:if ! equal "Test Comment" "":) \\
-[+'''Test Comment'''+](:if:)
->>messageitem<< 
-This is a test comment, please ignore.
->><<
-#foxend 1371406315a63505b0#

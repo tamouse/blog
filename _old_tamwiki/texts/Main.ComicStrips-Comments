@@ -1,9 +1,0 @@
-#foxbegin 1368030636a84604b0#
->>messagehead<<
-(:if ! equal "" "":)[[ | tamara]](:else:)tamara(:if:)&nbsp;&mdash;&nbsp;[-08 May 2013 - 11:30-](:if auth admin:)&nbsp; mailto:tamouse@gmail.com (:if:)(:if ! equal "new strip" "":) \\
-[+'''new strip'''+](:if:)
->>messageitem<< 
-New Strip: Weregeek: http://www.weregeek.com/2013/05/03/
-
->><<
-#foxend 1368030636a84604b0#

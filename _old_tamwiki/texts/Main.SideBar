@@ -1,2 +1,0 @@
-(:if name Quotes:)(:toc-page {*$FullName} self=1:)(:else:)(:include Site.SideBar:)(:if:)
-

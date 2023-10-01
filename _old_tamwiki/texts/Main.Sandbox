@@ -1,7 +1,0 @@
->>hero<<
-Testing bgroups dropdown
->><<
-
-* %list class="nav"% Home
-(:bgroupdropdown title=Groups:)
-

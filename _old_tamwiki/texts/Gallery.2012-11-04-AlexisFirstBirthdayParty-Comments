@@ -1,8 +1,0 @@
-#foxbegin 1352160815a86990b0#
->>messagehead<<
-(:if ! equal "" "":)[[ | Mike]](:else:)Mike(:if:)&nbsp;&mdash;&nbsp;[-05 Nov 2012 - 18:13-](:if auth admin:)&nbsp; mailto:templema@charter.net (:if:)(:if ! equal "Thanks" "":) \\
-[+'''Thanks'''+](:if:)
->>messageitem<< 
-for ALL the pics ! 
->><<
-#foxend 1352160815a86990b0#

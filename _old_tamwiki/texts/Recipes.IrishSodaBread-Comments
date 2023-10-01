@@ -1,8 +1,0 @@
-#foxbegin 1387055488a8366b0#
->>messagehead<<
-(:if ! equal "" "":)[[ | tamouse]](:else:)tamouse(:if:)&nbsp;&mdash;&nbsp;[-14 Dec 2013 - 15:11-](:if auth admin:)&nbsp; mailto:tamouse.lists@gmail.com (:if:)(:if ! equal "another recipe" "":) \\
-[+'''another recipe'''+](:if:)
->>messageitem<< 
-Another recipe for Irish Soda Bread: http://allrecipes.com/recipe/amazingly-easy-irish-soda-bread/
->><<
-#foxend 1387055488a8366b0#
