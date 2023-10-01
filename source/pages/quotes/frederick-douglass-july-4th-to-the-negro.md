@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "The Meaning of July Fourth for the Negro by Frederick Douglass"
 ---
 
+# The Meaning of July Fourth for the Negro by Frederick Douglass
+  
 A speech given at Rochester, New York, July 5, 1852
 
 Mr. President, Friends and Fellow Citizens:

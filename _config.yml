@@ -19,6 +19,9 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+theme: minima
+plugins:
+  - jekyll-feed
 plugins_dir:
   - jekyll-gist
 

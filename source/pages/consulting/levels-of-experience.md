@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Levels of Experience"
 ---
+title: "Levels of Experience"
 
 we experience the world on a number of different levels
 

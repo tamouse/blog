@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Lessons from the Geese"
 ---
+title: "Lessons from the Geese"
+
 I received this list unattributed over the net. If anyone knows the real authors, I'd be happy to make a reference.
 
 ## Lessons from the Geese

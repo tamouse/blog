@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Balancing forces
 ---
+
+# Balancing forces
 
 The Five Powers are derived in Bhuddist teaching. They apply equally
 to developing a consulting practice for one's self, and being able to

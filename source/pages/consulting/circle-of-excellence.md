@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Circle of Excellence"
 ---
+
+# Circle of Excellence
+
 A personal process for obtaining a state of excellence, useful for preparing one's self for a consulting gig, from the NLP playbook.
 
 ## Introduction

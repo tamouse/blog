@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Learning new skills is like learning to sex eggs
 ---
+title: Learning new skills is like learning to sex eggs
+
 A teaching story I've used in the past for helping people understand
 about learning new skills.
 

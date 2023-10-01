@@ -1,10 +1,13 @@
 source "https://rubygems.org"
-gem "sassc"
+# gem "sassc"
 gem "jekyll"
 gem "jekyllpress"
-gem "pry"
+# gem "pry"
 
 group :jekyll_plugins do
-  gem "jekyll-gist"
-  gem "jekyll-sitemap"
+  # gem "jekyll-gist"
+  gem "jekyll-feed"
+  # gem "jekyll-sitemap"
 end
+
+gem "minima", "~> 2.5"

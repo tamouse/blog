@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Transfer of Knowledge"
 ---
+title: "Transfer of Knowledge"
 
 Thoughts after reading a chapter in the Spring 97 Parabola, "Knowing
 Beyond Knowing: The Heart of Hermetic Tradition", Peter Kingsley,

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Consulting Skills
 ---
+
+# Consulting Skills
 
 1. [Precision Inquiry]({% link pages/consulting/precision-inquiry.md %})
 2. [Levels of Experience]({% link pages/consulting/levels-of-experience.md %})

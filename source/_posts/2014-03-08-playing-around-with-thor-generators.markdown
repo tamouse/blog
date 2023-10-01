@@ -40,7 +40,7 @@ Ruby.
 I have often started off a learning exercise by creating a gem skeleton
 with `bundler` :
 
-{% gist 9439598 bundler-gem %}
+ gist 9439598 bundler-gem 
 
 This is itself a generator, and rather a cool way to start something
 up. However, it's intended to create an actual gem, which I don't
@@ -55,7 +55,7 @@ So what would I generate, exactly, and how?
 Below is a typical project directory structure I like for starting
 out:
 
-{% gist 9439598 directory-structure %}
+ gist 9439598 directory-structure 
 
 Several of these might remain empty or unused, but it's a great
 starting point for me. If I do wish to turn it into a gem, All I need
@@ -97,7 +97,7 @@ nearly *always* running under `bundler`.
 
 The modification is simple:
 
-{% gist 9439598 Guardfile %}
+ gist 9439598 Guardfile 
 
 You add the `:cmd` to the `rspec` `watch` section. But it's just one more thing to have
 to remember and slow me down.
@@ -119,7 +119,7 @@ that prove necessary.
 
 Here's the new project generator:
 
-{% gist 9439598 new_ruby_project.thor %}
+ gist 9439598 new_ruby_project.thor 
 
 Let's talk a bit about this script.
 

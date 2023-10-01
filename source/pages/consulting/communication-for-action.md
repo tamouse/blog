@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Communication for Action"
 section: consulting
 subtitle: Getting the results you want
 date: 2004-12-29

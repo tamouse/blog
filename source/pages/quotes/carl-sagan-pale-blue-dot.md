@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Pale Blue Dot (Carl Sagan)
-
 ---
 
 {% include img_frame_center.html src="palebluedot.jpg" alt=page.content %}

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Precision Inquiry for the Desired Future State"
 subtitle: Eliciting high-fidelity information from a client
 date: 1999-01-01
 author: Tamara Temple
 email: tamouse@gmail.com
 ---
+title: "Precision Inquiry for the Desired Future State"
+
 Precision inquiry is the practice of establishing the most sensory-complete set of information the client can give you about what their [Desired State][desired-state] will be. These questions can be asked from the present or the future; often times asking from the future is more productive especially if the client does not really consciously know what they want.
 
 I wrote this initially back in 1999--2000 to try to capture the process we used in our internal consultancy at Hewlett-Packard, the Software Initiative.

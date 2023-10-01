@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "On Listening"
 ---
+title: "On Listening"
 
 A caveat in this article; I wrote this ages ago, at a time I was
 pretty much incongnisant of neuroatypicality (and my own ablism about
