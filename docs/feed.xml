@@ -3,16 +3,47 @@
   <channel>
     <title>&amp;#128045; the tamouse pages</title>
     <description>the rumblings and ramblings of a well-traveled tech-mouse</description>
-    <link>https://tamouse.github.io/blog/</link>
-    <atom:link href="https://tamouse.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
-<<<<<<< Updated upstream
-    <pubDate>Sun, 22 Jan 2023 20:08:42 -0600</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2023 20:08:42 -0600</lastBuildDate>
-=======
-    <pubDate>Tue, 08 Jun 2021 20:10:59 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Jun 2021 20:10:59 -0500</lastBuildDate>
->>>>>>> Stashed changes
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 30 Sep 2023 21:22:46 -0500</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2023 21:22:46 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>A new beginning</title>
+        <description>&lt;h2 id=&quot;where-have-i-been&quot;&gt;Where have I been?&lt;/h2&gt;
+
+&lt;p&gt;Like some other folks these days, the whole social media thing is wearing very thin. Doomscrolling is generally recognized as a “bad thing”. Giving away your friendships to some third party to intermediate and define feels like giving up on something essential and yet ineffable, and giving your eyes and your friends’ eyes to corporate enshittification [Doctorow][enshittification].&lt;/p&gt;
+
+&lt;h2 id=&quot;now-what&quot;&gt;Now what?&lt;/h2&gt;
+
+&lt;p&gt;So I come back here, my little web log. I look at lots of stuff, and like to share if I can. But usually I’m just reposting other people’s stuff without any comment or examination of the things I’m reposting, other than occasionally giving credit (the ever lovin’ “hat tip”). I should spend more thought about what I’m posting, and not just try to spew out stuff. Making the readers’ job harder to understand why I posted it.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-my-goal-for-writing-here&quot;&gt;What’s my goal for writing here?&lt;/h2&gt;
+
+&lt;p&gt;I’m slowing down that posting impulse. Instead of using the “Like, Comment, and Share” reflex, I want to think about it. I want to ponder it, and not just do the quick reactive thing.&lt;/p&gt;
+
+&lt;p&gt;I’m everywhere in social media, it seems. I have also been trying to shorten the time I spend there, because that “doomscrolling” thing has been really taking over my life, and I need my life back. I need my brain back. I need to be more that just a software developer without much else thought going into the universe.&lt;/p&gt;
+
+&lt;p&gt;Don’t look for hot takes. Sure, I have them, like we all do. I just don’t think I’ll be publishing mine, because nearly eveything that I think as a hot take is usually wrong, the moment I speak it (or type it) and I wish I could take it back. Even if the hot take is not wrong, it isn’t worth much until I’ve spent the time mulling it over, and putting it into some sort of context that I can also present.&lt;/p&gt;
+
+&lt;p&gt;In a nutshell, I like ot write and I love to communicate with people. I love to nerd out so there will likely be some of that. So I’ll be writing about stuff I find interesting, and I hope you think so to. Even if no one reads the stuff, I’ll still have it for myself, and I can take it out and admire it from time to time.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-you-find-stuff&quot;&gt;How can you find stuff?&lt;/h2&gt;
+
+&lt;p&gt;There are zillions of keywords or tags and such things throughout the blog, but they’re there to help readers find what they’re looking for. The categories in the blog aren’t really all that helpful.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 30 Sep 2023 20:44:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2023/09/30/a-new-beginning.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2023/09/30/a-new-beginning.html</guid>
+        
+        <category>blogging frequency</category>
+        
+        <category>updates</category>
+        
+        
+      </item>
     
       <item>
         <title>Walls Cannot Keep Us From Flying documentary</title>
@@ -34,8 +65,8 @@
 
 </description>
         <pubDate>Sun, 22 Jan 2023 19:55:00 -0600</pubDate>
-        <link>https://tamouse.github.io/blog/liberation/2023/01/22/walls-cannot-keep-us-from-flying.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/liberation/2023/01/22/walls-cannot-keep-us-from-flying.html</guid>
+        <link>http://localhost:4000/blog/liberation/2023/01/22/walls-cannot-keep-us-from-flying.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/liberation/2023/01/22/walls-cannot-keep-us-from-flying.html</guid>
         
         <category>Apartheid</category>
         
@@ -67,8 +98,8 @@
 &lt;p&gt;It could also be said I have too many computers I do personal stuff on. I need to sort that out, too.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Apr 2021 07:31:00 -0500</pubDate>
-        <link>https://tamouse.github.io/blog/misc/2021/04/30/ridiculous-obstacle-course-for-new-post.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/misc/2021/04/30/ridiculous-obstacle-course-for-new-post.html</guid>
+        <link>http://localhost:4000/blog/misc/2021/04/30/ridiculous-obstacle-course-for-new-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/misc/2021/04/30/ridiculous-obstacle-course-for-new-post.html</guid>
         
         <category>writing</category>
         
@@ -147,8 +178,8 @@ Source: “The Other America” speech given at Stanford in 1967&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 29 May 2020 01:18:00 -0500</pubDate>
-        <link>https://tamouse.github.io/blog/politics/2020/05/29/mlkjr-a-riot-is-the-language-of-the-unheard.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/politics/2020/05/29/mlkjr-a-riot-is-the-language-of-the-unheard.html</guid>
+        <link>http://localhost:4000/blog/politics/2020/05/29/mlkjr-a-riot-is-the-language-of-the-unheard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/politics/2020/05/29/mlkjr-a-riot-is-the-language-of-the-unheard.html</guid>
         
         <category>racism</category>
         
@@ -240,8 +271,8 @@ Source: “The Other America” speech given at Stanford in 1967&lt;/p&gt;
 &lt;p&gt;The stamps are available through the &lt;a href=&quot;https://store.usps.com/store/results?Ntt=Voices+of+the+Harlem+Renaissance&amp;amp;_requestid=888758&quot; target=&quot;_blank&quot;&gt;USPS Store&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 May 2020 10:46:00 -0500</pubDate>
-        <link>https://tamouse.github.io/blog/history/2020/05/27/new-stamps-voices-of-the-harlem-renaissance.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/history/2020/05/27/new-stamps-voices-of-the-harlem-renaissance.html</guid>
+        <link>http://localhost:4000/blog/history/2020/05/27/new-stamps-voices-of-the-harlem-renaissance.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/history/2020/05/27/new-stamps-voices-of-the-harlem-renaissance.html</guid>
         
         <category>stamps</category>
         
@@ -333,8 +364,8 @@ Source: “The Other America” speech given at Stanford in 1967&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 14 May 2020 07:57:00 -0500</pubDate>
-        <link>https://tamouse.github.io/blog/travel/2020/05/14/things-to-do-in-minneapolis.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/travel/2020/05/14/things-to-do-in-minneapolis.html</guid>
+        <link>http://localhost:4000/blog/travel/2020/05/14/things-to-do-in-minneapolis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/travel/2020/05/14/things-to-do-in-minneapolis.html</guid>
         
         <category>minneapolis</category>
         
@@ -366,8 +397,8 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 </description>
         <pubDate>Fri, 13 Mar 2020 21:41:00 -0500</pubDate>
-        <link>https://tamouse.github.io/blog/cool-things/2020/03/13/link-amamzing-invisible-glass-rube-goldberg-machine-laughing-squid.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/cool-things/2020/03/13/link-amamzing-invisible-glass-rube-goldberg-machine-laughing-squid.html</guid>
+        <link>http://localhost:4000/blog/cool-things/2020/03/13/link-amamzing-invisible-glass-rube-goldberg-machine-laughing-squid.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/cool-things/2020/03/13/link-amamzing-invisible-glass-rube-goldberg-machine-laughing-squid.html</guid>
         
         
         <category>cool-things</category>
@@ -375,7 +406,7 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
       </item>
     
       <item>
-        <title>Link: Thoughts on Leonard Peltier's 44th year of imprisonment</title>
+        <title>Link: Thoughts on Leonard Peltier&apos;s 44th year of imprisonment</title>
         <description>&lt;p&gt;Link to article on Leonard Peltier, native american political prisoner.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -405,8 +436,8 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 &lt;p&gt;Source: &lt;a href=&quot;https://lastrealindians.com/news/2020/2/7/thoughts-on-leonard-peltiers-44th-year-of-imprisonment-by-people-who-know-him-by-frank-hopper&quot;&gt;https://lastrealindians.com/news/2020/2/7/thoughts-on-leonard-peltiers-44th-year-of-imprisonment-by-people-who-know-him-by-frank-hopper&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Feb 2020 18:38:00 -0600</pubDate>
-        <link>https://tamouse.github.io/blog/politics/2020/02/26/link-thoughts-on-leonard-peltiers-s44th-year-of-imprisonment.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/politics/2020/02/26/link-thoughts-on-leonard-peltiers-s44th-year-of-imprisonment.html</guid>
+        <link>http://localhost:4000/blog/politics/2020/02/26/link-thoughts-on-leonard-peltiers-s44th-year-of-imprisonment.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/politics/2020/02/26/link-thoughts-on-leonard-peltiers-s44th-year-of-imprisonment.html</guid>
         
         <category>injustice</category>
         
@@ -432,8 +463,8 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 </description>
         <pubDate>Wed, 26 Feb 2020 18:26:00 -0600</pubDate>
-        <link>https://tamouse.github.io/blog/critters/2020/02/26/video-sugar-glider-leap.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/critters/2020/02/26/video-sugar-glider-leap.html</guid>
+        <link>http://localhost:4000/blog/critters/2020/02/26/video-sugar-glider-leap.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/critters/2020/02/26/video-sugar-glider-leap.html</guid>
         
         <category>sugar-glider</category>
         
@@ -456,11 +487,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-01-17-incense-sticks.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-01-17: A woman arranges incense sticks to dry inside a temple's yard, in Quang Phu Cau village on the outskirts of Hanoi, Vietnam on  Jan. 17, 2019. The village which is believed to have started making incense more than 100 years ago, is now busy perparing for the upcoming Lunar New Year&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-01-17-incense-sticks.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-01-17: A woman arranges incense sticks to dry inside a temple&apos;s yard, in Quang Phu Cau village on the outskirts of Hanoi, Vietnam on  Jan. 17, 2019. The village which is believed to have started making incense more than 100 years ago, is now busy perparing for the upcoming Lunar New Year&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-01-17: A woman arranges incense sticks to dry inside a temple's yard, in Quang Phu Cau village on the outskirts of Hanoi, Vietnam on  Jan. 17, 2019. The village which is believed to have started making incense more than 100 years ago, is now busy perparing for the upcoming Lunar New Year
+        2019-01-17: A woman arranges incense sticks to dry inside a temple&apos;s yard, in Quang Phu Cau village on the outskirts of Hanoi, Vietnam on  Jan. 17, 2019. The village which is believed to have started making incense more than 100 years ago, is now busy perparing for the upcoming Lunar New Year
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -472,11 +503,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-01-29-skaters.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-01-24: France's Vanessa James and Morgan Cipres perform in the pairs' free skating event at the ISU European Figure Skating Championships in Minsk on Jan. 24, 2019&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-01-29-skaters.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-01-24: France&apos;s Vanessa James and Morgan Cipres perform in the pairs&apos; free skating event at the ISU European Figure Skating Championships in Minsk on Jan. 24, 2019&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-01-24: France's Vanessa James and Morgan Cipres perform in the pairs' free skating event at the ISU European Figure Skating Championships in Minsk on Jan. 24, 2019
+        2019-01-24: France&apos;s Vanessa James and Morgan Cipres perform in the pairs&apos; free skating event at the ISU European Figure Skating Championships in Minsk on Jan. 24, 2019
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -552,11 +583,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-04-15-notre-dame-de-paris-fire.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-04-15: Flames and smoke rise from the blaze as the spire starts to topple on Notre Dame cathedral in Paris, April 15, 2019. An inferno that raged through Notre Dame Cathedral for more than 12 hours destroyed its spire and its roof but spared its twin medieval bell towers, and a frantic rescue effort saved the monument's 'most precious treasures,' including the Crown of Thorns purportedly worn by Jesus, officials said.&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-04-15-notre-dame-de-paris-fire.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-04-15: Flames and smoke rise from the blaze as the spire starts to topple on Notre Dame cathedral in Paris, April 15, 2019. An inferno that raged through Notre Dame Cathedral for more than 12 hours destroyed its spire and its roof but spared its twin medieval bell towers, and a frantic rescue effort saved the monument&apos;s &apos;most precious treasures,&apos; including the Crown of Thorns purportedly worn by Jesus, officials said.&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-04-15: Flames and smoke rise from the blaze as the spire starts to topple on Notre Dame cathedral in Paris, April 15, 2019. An inferno that raged through Notre Dame Cathedral for more than 12 hours destroyed its spire and its roof but spared its twin medieval bell towers, and a frantic rescue effort saved the monument's 'most precious treasures,' including the Crown of Thorns purportedly worn by Jesus, officials said.
+        2019-04-15: Flames and smoke rise from the blaze as the spire starts to topple on Notre Dame cathedral in Paris, April 15, 2019. An inferno that raged through Notre Dame Cathedral for more than 12 hours destroyed its spire and its roof but spared its twin medieval bell towers, and a frantic rescue effort saved the monument&apos;s &apos;most precious treasures,&apos; including the Crown of Thorns purportedly worn by Jesus, officials said.
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -568,11 +599,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-06-11-womens-soccer-victory.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-06-11: United States' Alex Morgan, second right, celebrates after scoring her side's 12th goal during the Women's World Cup Group F soccer match between United States and Thailand at the Stade Auguste-Delaune in Reims, France, Tuesday, June 11, 2019. Morgan scored five goals during the match&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-06-11-womens-soccer-victory.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-06-11: United States&apos; Alex Morgan, second right, celebrates after scoring her side&apos;s 12th goal during the Women&apos;s World Cup Group F soccer match between United States and Thailand at the Stade Auguste-Delaune in Reims, France, Tuesday, June 11, 2019. Morgan scored five goals during the match&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-06-11: United States' Alex Morgan, second right, celebrates after scoring her side's 12th goal during the Women's World Cup Group F soccer match between United States and Thailand at the Stade Auguste-Delaune in Reims, France, Tuesday, June 11, 2019. Morgan scored five goals during the match
+        2019-06-11: United States&apos; Alex Morgan, second right, celebrates after scoring her side&apos;s 12th goal during the Women&apos;s World Cup Group F soccer match between United States and Thailand at the Stade Auguste-Delaune in Reims, France, Tuesday, June 11, 2019. Morgan scored five goals during the match
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -584,11 +615,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-07-15-congressional-squad.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-07-15: From left, Rep. Rashida Tlaib, D-Mich., Rep. Ilhan Omar, D-Minn., Rep. Alexandria Ocasio-Cortez, D-N.Y., and Rep. Ayanna Pressley, D-Mass., respond to remarks by President Donald Trump after his call for the four Democratic congresswomen to go back to their 'broken' countries, during a news conference at the Capitol in Washington, July 15, 2019. All are American citizens and three of the four were born in the U.S.&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-07-15-congressional-squad.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-07-15: From left, Rep. Rashida Tlaib, D-Mich., Rep. Ilhan Omar, D-Minn., Rep. Alexandria Ocasio-Cortez, D-N.Y., and Rep. Ayanna Pressley, D-Mass., respond to remarks by President Donald Trump after his call for the four Democratic congresswomen to go back to their &apos;broken&apos; countries, during a news conference at the Capitol in Washington, July 15, 2019. All are American citizens and three of the four were born in the U.S.&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-07-15: From left, Rep. Rashida Tlaib, D-Mich., Rep. Ilhan Omar, D-Minn., Rep. Alexandria Ocasio-Cortez, D-N.Y., and Rep. Ayanna Pressley, D-Mass., respond to remarks by President Donald Trump after his call for the four Democratic congresswomen to go back to their 'broken' countries, during a news conference at the Capitol in Washington, July 15, 2019. All are American citizens and three of the four were born in the U.S.
+        2019-07-15: From left, Rep. Rashida Tlaib, D-Mich., Rep. Ilhan Omar, D-Minn., Rep. Alexandria Ocasio-Cortez, D-N.Y., and Rep. Ayanna Pressley, D-Mass., respond to remarks by President Donald Trump after his call for the four Democratic congresswomen to go back to their &apos;broken&apos; countries, during a news conference at the Capitol in Washington, July 15, 2019. All are American citizens and three of the four were born in the U.S.
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -648,11 +679,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-11-12-australian-bushfire.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-11-12: Residents defend a property from a bushfire at Hillsville near Taree, around 215 miles north of Sydney on Nov. 12, 2019. A state of emergency was declared on Nov. 11 and residents in the Sydney area were warned of 'catastrophic' fire danger as Australia prepared for a fresh wave of deadly bushfires that have ravaged the drought-stricken east of the country.&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-11-12-australian-bushfire.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-11-12: Residents defend a property from a bushfire at Hillsville near Taree, around 215 miles north of Sydney on Nov. 12, 2019. A state of emergency was declared on Nov. 11 and residents in the Sydney area were warned of &apos;catastrophic&apos; fire danger as Australia prepared for a fresh wave of deadly bushfires that have ravaged the drought-stricken east of the country.&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-11-12: Residents defend a property from a bushfire at Hillsville near Taree, around 215 miles north of Sydney on Nov. 12, 2019. A state of emergency was declared on Nov. 11 and residents in the Sydney area were warned of 'catastrophic' fire danger as Australia prepared for a fresh wave of deadly bushfires that have ravaged the drought-stricken east of the country.
+        2019-11-12: Residents defend a property from a bushfire at Hillsville near Taree, around 215 miles north of Sydney on Nov. 12, 2019. A state of emergency was declared on Nov. 11 and residents in the Sydney area were warned of &apos;catastrophic&apos; fire danger as Australia prepared for a fresh wave of deadly bushfires that have ravaged the drought-stricken east of the country.
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -696,11 +727,11 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 &lt;div class=&quot;figure-card&quot;&gt;
 &lt;figure class=&quot;figure-img&quot;&gt;
-    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-12-07-survivors-comfort-each-other-after-russian-airstrike-on-syria.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-12-07: A Syrian man comforts another on the rubble of a building after a reported Russian airstrike on a popular market in the village of Balyun in Syria's northwestern Idlib province, on Dec. 7, 2019. Syrian regime and Russian air strikes killed 19 civilians on Dec. 7, eight of them children, in Idlib, the country's last major opposition bastion, a war monitor said.&quot; /&gt;
+    &lt;img src=&quot;http://tt.imageshare.s3.amazonaws.com/blog/people/usatoday-2019-in-pictures/2019-12-07-survivors-comfort-each-other-after-russian-airstrike-on-syria.jpg&quot; class=&quot;figure-img-image&quot; alt=&quot;2019-12-07: A Syrian man comforts another on the rubble of a building after a reported Russian airstrike on a popular market in the village of Balyun in Syria&apos;s northwestern Idlib province, on Dec. 7, 2019. Syrian regime and Russian air strikes killed 19 civilians on Dec. 7, eight of them children, in Idlib, the country&apos;s last major opposition bastion, a war monitor said.&quot; /&gt;
     &lt;figcaption&gt;
       &lt;div class=&quot;figure-img-caption&quot;&gt;
         
-        2019-12-07: A Syrian man comforts another on the rubble of a building after a reported Russian airstrike on a popular market in the village of Balyun in Syria's northwestern Idlib province, on Dec. 7, 2019. Syrian regime and Russian air strikes killed 19 civilians on Dec. 7, eight of them children, in Idlib, the country's last major opposition bastion, a war monitor said.
+        2019-12-07: A Syrian man comforts another on the rubble of a building after a reported Russian airstrike on a popular market in the village of Balyun in Syria&apos;s northwestern Idlib province, on Dec. 7, 2019. Syrian regime and Russian air strikes killed 19 civilians on Dec. 7, eight of them children, in Idlib, the country&apos;s last major opposition bastion, a war monitor said.
         
         
         &lt;div class=&quot;small pull-right&quot;&gt;&lt;a class=&quot;btn btn-secondary&quot; href=&quot;https://www.usatoday.com/picture-gallery/news/nation/2019/06/07/year-in-pictures-2019/3559853002/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;read more&lt;/a&gt;&lt;/div&gt;
@@ -728,8 +759,8 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
 
 </description>
         <pubDate>Tue, 31 Dec 2019 00:00:00 -0600</pubDate>
-        <link>https://tamouse.github.io/blog/photography/2019/12/31/link-usatoday-2019-in-pictures.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/photography/2019/12/31/link-usatoday-2019-in-pictures.html</guid>
+        <link>http://localhost:4000/blog/photography/2019/12/31/link-usatoday-2019-in-pictures.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/photography/2019/12/31/link-usatoday-2019-in-pictures.html</guid>
         
         <category>usatoday</category>
         
@@ -741,29 +772,6 @@ Youtube Video: &lt;a href=&quot;https://youtu.be/C4i7qu7JFMk&quot;&gt;https://yo
         
         
         <category>photography</category>
-        
-      </item>
-    
-      <item>
-        <title>Tweet: Nativity Scene at Claremont UMC</title>
-        <description>&lt;p&gt;Suitable Nativity Scene given the current climate for how we treat immigrants in the U.S. in 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/mattrindge/status/1203556607033929729&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;img src=&quot;/blog/images/tweet-nativity-at-claremont-umc.jpg&quot; alt=&quot;mary, joseph, and baby jesus held in separate cages as nativity scened outside Claremont United Methodist Church&quot; title=&quot;The nativity scene at Claremont United Methodist church.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Link: &lt;a href=&quot;https://twitter.com/mattrindge/status/1203556607033929729&quot;&gt;https://twitter.com/mattrindge/status/1203556607033929729&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Dec 2019 16:31:00 -0600</pubDate>
-        <link>https://tamouse.github.io/blog/politics/2019/12/08/tweet-nativity-scene-at-claremont-umc.html</link>
-        <guid isPermaLink="true">https://tamouse.github.io/blog/politics/2019/12/08/tweet-nativity-scene-at-claremont-umc.html</guid>
-        
-        <category>immigration</category>
-        
-        <category>kidnapping</category>
-        
-        <category>kids-in-cages</category>
-        
-        
-        <category>politics</category>
         
       </item>
     
